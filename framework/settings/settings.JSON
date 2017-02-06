@@ -1,5 +1,5 @@
 {
   "defaultTimeout": 60,
-  "chromeDriverLinux": "chromedriver_linux",
-  "chromeDriverMac": "chromedriver_mac"
+  "chromeDriver": "chromedriver_mac",
+  "appPath": "http://www.google.com"
 }
