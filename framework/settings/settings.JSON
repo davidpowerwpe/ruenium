@@ -1,0 +1,5 @@
+{
+  "defaultTimeout": 60,
+  "chromeDriverLinux": "chromedriver_linux",
+  "chromeDriverMac": "chromedriver_mac"
+}
